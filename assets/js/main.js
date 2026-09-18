@@ -1,5 +1,5 @@
 /* =====================================================================
-   Walton Orthodontics — $650 Off Clear Aligners (Invisalign®) PPC LP
+   Walton Orthodontics — $1,000 Off Clear Aligners (Invisalign®) PPC LP
    Minimal vanilla JS: attribution capture, lead form, FAQ accordion,
    reveal-on-scroll, CTA event tracking hooks.
    ===================================================================== */

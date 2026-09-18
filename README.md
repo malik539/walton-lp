@@ -1,4 +1,4 @@
-# Walton Orthodontics — $650 Off Clear Aligners (Invisalign®) PPC Landing Page
+# Walton Orthodontics — $1,000 Off Clear Aligners (Invisalign®) PPC Landing Page
 
 Static, dependency-free Google Ads landing page for Walton Orthodontics (Suwanee, GA).
 Works from any static web server. No build step, no npm.
